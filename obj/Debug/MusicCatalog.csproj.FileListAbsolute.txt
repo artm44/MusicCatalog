@@ -1,0 +1,14 @@
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\bin\Debug\MusicCatalog.exe.config
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\bin\Debug\MusicCatalog.exe
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\bin\Debug\MusicCatalog.pdb
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\obj\Debug\MusicCatalog.csproj.AssemblyReference.cache
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\obj\Debug\MusicCatalog.Properties.Resources.resources
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\obj\Debug\MusicCatalog.csproj.GenerateResource.cache
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\obj\Debug\MusicCatalog.csproj.CoreCompileInputs.cache
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\obj\Debug\MusicCatalog.exe
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\obj\Debug\MusicCatalog.pdb
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\obj\Debug\MusicCatalog.HomeForm.resources
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\obj\Debug\MusicCatalog.InfoForms.SongInfoForm.resources
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\obj\Debug\MusicCatalog.InfoForms.AlbumInfoForm.resources
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\obj\Debug\MusicCatalog.InfoForms.ArtistInfoForm.resources
+C:\Users\artpo\OneDrive\Рабочий стол\Учеба\ИТМО\ООП\MusicCatalog\obj\Debug\MusicCatalog.InfoForms.CollectionInfoForm.resources
