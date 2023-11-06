@@ -28,7 +28,7 @@ namespace MusicCatalog
 
         }
 
-        private void ApplyFilter<T> (bool flag, IEnumerable<T> collection) where T : IMyName
+        private void ApplyFilter<T> (bool flag, IEnumerable<T> collection) where T : IName
         {
             if (flag)
                 listFinded.Items.Clear();

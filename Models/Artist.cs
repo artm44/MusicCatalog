@@ -3,7 +3,7 @@ using MusicCatalog.Models.Interfaces;
 
 namespace MusicCatalog.Models
 {
-    public class Artist : IMyName
+    public class Artist : IName
     {
         public string Name { get; set; }
         public IEnumerable<Album> Albums { get; set; }

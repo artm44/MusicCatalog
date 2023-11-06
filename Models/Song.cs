@@ -2,7 +2,7 @@
 
 namespace MusicCatalog.Models
 {
-    public class Song : IMyName
+    public class Song : IName
     {
         public Artist Artist { get; set; }
         public Album Album { get; set; }

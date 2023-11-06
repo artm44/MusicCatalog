@@ -1,7 +1,7 @@
 ﻿
 namespace MusicCatalog.Models.Interfaces
 {
-    public interface IMyName
+    public interface IName
     {
         string Name { get; set; }
     }
