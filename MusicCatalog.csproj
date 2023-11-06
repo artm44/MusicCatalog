@@ -85,7 +85,7 @@
     <Compile Include="Models\Interfaces\ICatalog.cs" />
     <Compile Include="Models\Interfaces\IDataProvider.cs" />
     <Compile Include="Models\Interfaces\IFilter.cs" />
-    <Compile Include="Models\Interfaces\IMyName.cs" />
+    <Compile Include="Models\Interfaces\IName.cs" />
     <Compile Include="Models\Song.cs" />
     <Compile Include="Models\Сollection.cs" />
     <Compile Include="Program.cs" />
